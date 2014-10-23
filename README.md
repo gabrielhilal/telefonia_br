@@ -1,6 +1,8 @@
 # Telefonia BR
 
-This gem does some tricks with [Brazilian Telephone Numbers](http://en.wikipedia.org/wiki/Telephone_numbers_in_Brazil). It validates telephone numbers based on its area code, bands of operation and the rules defined by [ANATEL](http://en.wikipedia.org/wiki/Brazilian_Agency_of_Telecommunications). The implementation of the ninth digit in Brazil has also been taken into account when developing this gem. 
+This gem does some tricks with [Brazilian Telephone Numbers](http://en.wikipedia.org/wiki/Telephone_numbers_in_Brazil). It validates telephone numbers based on its area code, bands of operation and the rules defined by [ANATEL](http://en.wikipedia.org/wiki/Brazilian_Agency_of_Telecommunications). The implementation of the ninth digit in Brazil has also been taken into account when developing this gem.
+
+API to illustrate its functionality: [http://telefonia-br.herokuapp.com?tel=(YY)XXXXXX](http://telefonia-br.herokuapp.com?tel=)
 
 ## Installation
 
