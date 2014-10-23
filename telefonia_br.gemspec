@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name        = 'telefonia_br'
   s.version     = '0.0.1'
@@ -7,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Gabriel Hilal"]
   s.email       = 'gabrielhilal@gmail.com'
   s.files       = ["lib/telefonia_br.rb", "lib/rules.rb"]
-  s.homepage    = 'https://github.com/gabrielhilal/telefonia_br'
+  s.homepage    = 'http://github.com/gabrielhilal/telefonia_br'
   s.license     = 'MIT'
   s.add_development_dependency "rspec"
 end
