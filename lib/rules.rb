@@ -1,3 +1,5 @@
+# encoding : UTF-8
+
 DDDS = {
   '11' => { ninth_digit: true,  state: 'SP', region: 'Região Metropolitana de São Paulo.' },
   '12' => { ninth_digit: true,  state: 'SP', region: 'São José dos Campos e Região.' },
