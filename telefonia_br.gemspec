@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name        = 'telefonia_br'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2014-10-17'
   s.summary     = "Brazilian Phone Number Validator"
   s.description = "This gem does some tricks with Brazilian Telephone Numbers. It validates telephone numbers based on its area code, bands of operation and the rules defined by ANATEL."
